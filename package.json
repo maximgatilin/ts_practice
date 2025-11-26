@@ -1,0 +1,22 @@
+{
+  "name": "ts-practice",
+  "version": "1.0.0",
+  "description": "TypeScript type challenges practice repository",
+  "main": "index.js",
+  "scripts": {
+    "type-check": "tsc --noEmit",
+    "test": "tsc --noEmit"
+  },
+  "keywords": [
+    "typescript",
+    "type-challenges",
+    "practice"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@type-challenges/utils": "^0.1.1",
+    "typescript": "^5.3.3"
+  }
+}
+
